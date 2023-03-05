@@ -1,1 +1,1 @@
-# python_program
+# python_program for beginners
